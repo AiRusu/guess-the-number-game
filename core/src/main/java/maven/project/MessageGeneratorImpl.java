@@ -12,7 +12,7 @@ public class MessageGeneratorImpl implements MessageGenerator {
     // == constants ==
     private static final Logger log = LoggerFactory.getLogger(MessageGeneratorImpl.class);
 
-    // == fields ==
+    // == fields ===
     private final Game game;
 
     // == constructor ==
