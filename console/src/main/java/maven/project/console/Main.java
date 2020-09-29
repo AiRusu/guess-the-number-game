@@ -1,6 +1,6 @@
 package maven.project.console;
 
-import maven.project.AppConfig;
+import maven.project.config.AppConfig;
 import maven.project.MessageGenerator;
 import maven.project.NumberGenerator;
 import org.slf4j.Logger;
